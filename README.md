@@ -1,7 +1,7 @@
 # About
 This project is a requirement to finish Udacity's Full Stack Nanodegree program. the task is to take a baseline installion of a Linux server(ubuntu) and set it up to host web applications. putting into consideration a number of attack vectors, install and configure a database server, and deploy a web application with the server. 
 
-You can visit the deployed website at this address http://18.184.82.110/ 
+You can visit the deployed website at this address https://aqueous-wildwood-54050.herokuapp.com
 
 
 ## Procedure
